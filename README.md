@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&weight=600&size=31&pause=1000&center=true&vCenter=true&width=435&lines=a+Front+End+Developer" alt="Typing SVG" /></a>
 
 # 💫 About Me:
-🔭 I’m currently working on Aussieis<br><br>🌱 I’m currently learning js,jquery,react js<br><br>👨‍💻 All of my projects are available at <a href="https://github.com/alhassan73?tab=repositories">Here</a><br><br>📫 How to reach me alhassanhamed7396@gmail.com
+🌱 I’m currently learning js,jquery,react js<br><br>👨‍💻 All of my projects are available at <a href="https://github.com/alhassan73?tab=repositories">Here</a><br><br>📫 How to reach me alhassanhamed7396@gmail.com
 
 
 ## 🌐 Socials:
